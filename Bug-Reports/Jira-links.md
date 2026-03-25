@@ -1,3 +1,5 @@
+# Bug Reports:
+
 BUG-1: [The link to reset the password isn't sent to the entered email](https://healthyhub.atlassian.net/browse/PROJ-5)
 BUG-2: (https://healthyhub.atlassian.net/browse/PROJ-6)
 BUG-3: (https://healthyhub.atlassian.net/browse/PROJ-7)
